@@ -27,24 +27,4 @@ router.post('/api/add/mongo/data',(req,res)=>{
     return prmis
 })
 
-/* {
-    "result": {
-        "n": 0,
-        "nModified": 0,
-        "ok": 1
-    },
-    "connection": {
-        "id": 0,
-        "host": "localhost",
-        "port": 27017
-    },
-    "modifiedCount": 0,
-    "upsertedId": null,
-    "upsertedCount": 0,
-    "matchedCount": 0,
-    "n": 0,
-    "nModified": 0,
-    "ok": 1
-}
- */
 module.exports=router
