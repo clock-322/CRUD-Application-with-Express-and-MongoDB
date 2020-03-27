@@ -1,5 +1,5 @@
 # CRUD-Application-with-Express-and-MongoDB
-In this project is about integrating mongo CRUD functionalities with RESTful API's using NodeJs and ExpressJS.  Four type of REST API's methods are mentioned in this project that are GET, POST, PUT, DELETE and each methode is integrated with mongo according to it's properties. 
+This project is about integrating mongo CRUD functionalities with RESTful API's using NodeJs and ExpressJS.  Four type of REST API's methods are mentioned that are GET, POST, PUT, DELETE and each method is integrated with mongo according to it's properties. 
 - GET method to fetch data from database collection.
 - POST method to add data to database collection.
 - PUT Method to update data of database collection.
